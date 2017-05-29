@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1425952458 source:c:\users\teage\c++\projects\library\book.cpp
+
+1425952429 source:c:\users\teage\c++\projects\library\library.cpp
+
+1385320478 source:c:\users\teage\c++\projects\library\main.cpp
+	<iostream>
+
+1425952442 source:c:\users\teage\c++\projects\library\patron.cpp
+
